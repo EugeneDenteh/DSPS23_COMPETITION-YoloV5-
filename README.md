@@ -14,3 +14,4 @@ to access the notebooks
 > Code on how the data was prepared can be found [here](https://github.com/Blessing988/DSPS23_Competition/blob/main/Prepare_data.ipynb).
 >
 >Code on Model training and inference can also be found [here](https://github.com/Blessing988/DSPS23_Competition/blob/main/Task_2.ipynb). 
+> Much of the work on this project revolves around the training where it is important that the training yields a high accuracy model and for that to happen, my team and I worked tirelessly, tweaking the learning rates and other hyper-parameters in yolo help us achieve that.
